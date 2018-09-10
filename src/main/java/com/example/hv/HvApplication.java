@@ -1,12 +1,12 @@
-package br.com.mysistems.mysistems;
+package com.example.hv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MysistemsApplication {
+public class HvApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MysistemsApplication.class, args);
+		SpringApplication.run(HvApplication.class, args);
 	}
 }
